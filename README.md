@@ -1,6 +1,8 @@
 # zinescape
 tools for making zines with inkscape
 
+![screenshot.png](screenshot.png)
+
 # requirements
 - pdfbook2 
 - ghostscript
