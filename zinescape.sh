@@ -1,7 +1,5 @@
 #!/bin/sh
 
-# usage: exporter.sh <directory> <number of pages in booklet>
-
 WIDTH=5.5
 HEIGHT=8.5
 SPACING=1.0
