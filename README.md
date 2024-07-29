@@ -9,7 +9,7 @@ tools for making zines with inkscape
 
 this command makes a blank zine template for inkscape. options:
 
-- n=<number of pages>
+- n=<number of pages,>
 - w=<width of page, inches>
 - h=<height of page, inches>
 - s=<spacing between pages, inches>
